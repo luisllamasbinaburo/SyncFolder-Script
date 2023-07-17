@@ -1,6 +1,6 @@
 ﻿/* Simple script that compares two folders, and delete files and folders in the second folder that exist in first folder
  * Usage:
- * syncfolder -toKeep "path_to_keep" -toDelete "path_to_keep" -run
+ * syncfolder -toKeep "path_to_keep" -toDelete "path_to_delete" -run
  *
  * Parameters:
  * -toKeep : path to folder that will be used to compare
